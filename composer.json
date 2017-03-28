@@ -1,0 +1,15 @@
+{
+    "name": "root/video-factory",
+    "description": "video test",
+    "license": "GTA",
+    "authors": [
+        {
+            "name": "teranchristian",
+            "email": "chris.teran@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": { "": "src/" }
+    }
+}
